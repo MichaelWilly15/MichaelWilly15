@@ -1,4 +1,3 @@
 - 👋 Olá, sou Michael.
 - 👀 Estou interessado em me aprofundar mais na linguagem Python.
 - 🌱 Atualmente estou aprendendo sobre o mercado de trabalho Python.
-- 📫 Como chegar até mim: https://www.instagram.com/invites/contact/?i=15ku4yg1tgsxk&utm_content=lres01u
