@@ -1,4 +1,4 @@
-- 👋 Olá, sou Michael. 
+- 👋 Olá, sou o Michael. 
 - 🌱 Atualmente estou fazendo curso de desenvolvimento web. Mas a primeira linguagem
 - que tive contato foi o Python.
 - 🏠 Minas Gerais, Ponte Nova.
